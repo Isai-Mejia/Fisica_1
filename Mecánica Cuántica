@@ -1,1 +1,14 @@
-
+<!doctype html>
+<html>
+    <body>
+        <title>Mecánica Cuántica</title> 
+        <h1>
+            La <em>Mecánica Cuántica</em> se dedica al estudio de las escalas espaciales<br>
+            muy pequeñas, como los sistemas atómicos y subatómicos,<br>
+            o su interacción con la radiación electromagnética, siempre como fenómenos observables.<br>
+            Su principio fundamental es que toda forma de energía se libera<br>
+            en unidades regulares conocidas como "cuantos". Dentro de sus áreas de interés<br>
+            se hallan la <em>Física Nuclear,</em> la <em>Física atómica</em> o la física molecular.
+        </h1> 
+    </body>
+</html>
